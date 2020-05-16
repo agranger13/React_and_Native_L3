@@ -1,0 +1,3 @@
+[submodule "pomodoro"]
+	path = pomodoro
+	url = https://github.com/agranger13/Pomodoro_React
