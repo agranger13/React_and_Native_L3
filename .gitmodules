@@ -1,3 +1,6 @@
 [submodule "pomodoro"]
 	path = pomodoro
 	url = https://github.com/agranger13/Pomodoro_React
+[submodule "pomodoro_react_native"]
+	path = pomodoro_react_native
+	url = https://github.com/agranger13/Pomodoro_React_Native
