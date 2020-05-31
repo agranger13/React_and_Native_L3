@@ -4,3 +4,6 @@
 [submodule "pomodoro_react_native"]
 	path = pomodoro_react_native
 	url = https://github.com/agranger13/Pomodoro_React_Native
+[submodule "movie_ratings"]
+	path = movie_ratings
+	url = https://github.com/agranger13/movie_ratings
